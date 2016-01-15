@@ -1,0 +1,55 @@
+
+.uno{
+	height: 50px;
+	width:50px;
+	background-color: gray;
+	border-color: black;
+	border-width: 1px;
+	border-style: solid;
+	display:inline-block;
+	margin: 10px;
+}
+.dos{
+	background-color: gray;
+	border-color: black;
+	border-width: 1px;
+	border-style: solid;
+	margin: 10px;
+	display: block;
+	text-align:center;
+	padding:10px;
+	width: 200px;
+}
+
+.dentro{
+	height: 50px;
+	width:50px;
+	background-color: gray;
+	border-color: black;
+	border-width: 1px;
+	border-style: solid;
+	display:inline-block;
+	margin: 5px;
+}
+
+.tres{
+	height: 50px;
+	width:50px;
+	background-color: gray;
+	border-color: black;
+	border-width: 1px;
+	border-style: solid;
+	margin: 10px;
+	display: inline-block;
+}
+
+
+.cuatro{
+	height: 50px;
+	width:50px;
+	background-color: gray;
+	border-color: black;
+	border-width: 1px;
+	border-style: solid;
+	margin: 10px;
+}
